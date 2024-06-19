@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I´m Paula Vázquez Tella 👋
 
 <!--
 **paula-vazquez/paula-vazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
