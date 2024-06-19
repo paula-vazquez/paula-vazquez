@@ -5,7 +5,7 @@ I am currently in my third year of Computer Engineering at the **University of S
 ### About Me
 - 🌱 **Learning:** Constantly expanding my knowledge in modern web technologies.
 - 🎯 **Goals:** I aim to learn new architectures and contribute to innovative projects and open-source initiatives.
-- 📫 **Contact:** Feel free to reach out to me via [Email](mailto:paulavazqueztella@example.com).
+- 📫 **Contact:** Feel free to reach out to me via [Email](mailto:paulavazz03@gmail.com).
 
 <!--
 **paula-vazquez/paula-vazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
