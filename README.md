@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Paula Vázquez Tella 👋👩‍💻</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paula-vazquez/paula-vazquez/main/header.png" alt="Header Image">
+  <img src="https://raw.githubusercontent.com/paula-vazquez/paula-vazquez/main/my-header.png" alt="Header Image">
 </p>
 
 <p align="justify">
