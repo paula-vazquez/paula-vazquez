@@ -3,12 +3,13 @@
 <p align="justify">
 I am currently in my third year of Computer Engineering at the <strong>University of Santiago de Compostela</strong>. My main interests lie in software development, particularly in creating web applications. I am actively exploring different branches to discover which one I would like to specialize in.
 </p>
+<br/>
 
 ## ⚡About Me
 - 🌱 **Learning:** Constantly expanding my knowledge in modern web technologies.
 - 🎯 **Goals:** I aim to learn new architectures and contribute to innovative projects and open-source initiatives.
 - 📫 **Contact:** Feel free to reach out to me via [Email](mailto:paulavazz03@gmail.com).
-
+<br/>
 
 ## 📈 Tools and Technologies
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
@@ -30,6 +31,7 @@ I am currently in my third year of Computer Engineering at the <strong>Universit
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
+<br/>
 
 
 ## 📊 GitHub Stats
