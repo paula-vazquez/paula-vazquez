@@ -1,4 +1,11 @@
-## Hello! I´m Paula Vázquez Tella 👋
+## Hello! I´m Paula Vázquez Tella 👋👩‍💻
+
+I am currently in my third year of Computer Engineering at the **University of Santiago de Compostela**. My main interests lie in software development, particularly in creating web applications. I am actively exploring different branches to discover which one I would like to specialize in.
+
+### About Me
+- 🌱 **Learning:** Constantly expanding my knowledge in modern web technologies.
+- 🎯 **Goals:** I aim to learn new architectures and contribute to innovative projects and open-source initiatives.
+- 📫 **Contact:** Feel free to reach out to me via [Email](mailto:paulavazqueztella@example.com).
 
 <!--
 **paula-vazquez/paula-vazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
