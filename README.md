@@ -1,5 +1,9 @@
 <h1 align="center">Hello! I'm Paula Vázquez Tella 👋👩‍💻</h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/paula-vazquez/paula-vazquez/main/header.png" alt="Header Image">
+</p>
+
 <p align="justify">
 I am currently in my third year of Computer Engineering at the <strong>University of Santiago de Compostela</strong>. My main interests lie in software development, particularly in creating web applications. I am actively exploring different branches to discover which one I would like to specialize in.
 </p>
