@@ -1,4 +1,4 @@
-## Hello! I´m Paula Vázquez Tella 👋👩‍💻
+<h1 align="center">Hello! I'm Paula Vázquez Tella 👋👩‍💻</h1>
 
 I am currently in my third year of Computer Engineering at the **University of Santiago de Compostela**. My main interests lie in software development, particularly in creating web applications. I am actively exploring different branches to discover which one I would like to specialize in.
 
