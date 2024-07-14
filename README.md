@@ -8,6 +8,11 @@
 I am currently in my third year of Computer Engineering at the <strong>University of Santiago de Compostela</strong>. My main interests lie in software development, particularly in creating web applications. I am actively exploring different branches to discover which one I would like to specialize in.
 </p>
 
+<p align="justify">
+In addition to my academic pursuits, I am currently enrolled in the 🚀<strong>Complete Flutter App Development Bootcamp with Dart</strong>🚀 course, where I am gaining hands-on experience in building robust applications using Flutter and Dart!!
+</p>
+
+
 ## ⚡About Me
 - 🌱 **Learning:** Constantly expanding my knowledge in modern web technologies.
 - 🎯 **Goals:** I aim to learn new architectures and contribute to innovative projects and open-source initiatives.
@@ -33,7 +38,8 @@ I am currently in my third year of Computer Engineering at the <strong>Universit
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 
 
