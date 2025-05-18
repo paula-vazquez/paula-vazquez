@@ -5,7 +5,7 @@
 </p>
 
 <p align="justify">
-I am currently in my third year of Computer Engineering at the <strong>University of Santiago de Compostela</strong>. My main interests lie in software development, particularly in creating web applications. I am actively exploring different branches to discover which one I would like to specialize in.
+I am currently in my fourth year of Computer Engineering at the <strong>University of Santiago de Compostela</strong>. My main interests lie in software development, particularly in creating web applications. I am actively exploring different branches to discover which one I would like to specialize in.
 </p>
 
 <p align="justify">
